@@ -1,0 +1,7 @@
+com\mycompany\revision1\modelo\VerificableBlockchain.class
+com\mycompany\revision1\Revision1.class
+com\mycompany\revision1\modelo\TransaccionPago.class
+com\mycompany\revision1\modelo\PagoTarjeta.class
+com\mycompany\revision1\modelo\PagoTransferencia.class
+com\mycompany\revision1\modelo\PagoCripto.class
+com\mycompany\revision1\modelo\EncriptadorRSA.class
