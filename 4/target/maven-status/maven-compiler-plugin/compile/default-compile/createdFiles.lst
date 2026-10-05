@@ -1,0 +1,7 @@
+com\mycompany\revision1\RevisionVehiculos.class
+com\mycompany\revision1\modelo\BusExpreso.class
+com\mycompany\revision1\modelo\TaxiAutonomo.class
+com\mycompany\revision1\modelo\RastreableGPS.class
+com\mycompany\revision1\modelo\DronEntrega.class
+com\mycompany\revision1\modelo\BateriaLitio.class
+com\mycompany\revision1\modelo\VehiculoAutonomo.class
