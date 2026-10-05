@@ -1,0 +1,7 @@
+com\mycompany\sensorindustrial\modelo\SensorIndustrial.class
+com\mycompany\sensorindustrial\modelo\NotificableAlarma.class
+com\mycompany\sensorindustrial\modelo\SensorTemperatura.class
+com\mycompany\sensorindustrial\SensorIndustrialApp.class
+com\mycompany\sensorindustrial\modelo\SensorPresion.class
+com\mycompany\sensorindustrial\modelo\SensorHumedad.class
+com\mycompany\sensorindustrial\modelo\CalibradorDigital.class
