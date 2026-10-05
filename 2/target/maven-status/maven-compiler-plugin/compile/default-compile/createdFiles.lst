@@ -1,0 +1,7 @@
+com\mycompany\revision1\RevisionAtencionMedica.class
+com\mycompany\revision1\modelo\ConsultaGeneral.class
+com\mycompany\revision1\modelo\Quirofano.class
+com\mycompany\revision1\modelo\AtencionMedica.class
+com\mycompany\revision1\modelo\CirugiaUrgencia.class
+com\mycompany\revision1\modelo\FacturableDigital.class
+com\mycompany\revision1\modelo\Telemedicina.class
