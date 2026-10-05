@@ -1,0 +1,7 @@
+com\mycompany\asientosvuelo\modelo\AsientoBusiness.class
+com\mycompany\asientosvuelo\AsientosVuelo.class
+com\mycompany\asientosvuelo\modelo\CabinaPrivada.class
+com\mycompany\asientosvuelo\modelo\AsientoVuelo.class
+com\mycompany\asientosvuelo\modelo\AsientoTurista.class
+com\mycompany\asientosvuelo\modelo\CheckInOnLine.class
+com\mycompany\asientosvuelo\modelo\BoardingDigital.class
