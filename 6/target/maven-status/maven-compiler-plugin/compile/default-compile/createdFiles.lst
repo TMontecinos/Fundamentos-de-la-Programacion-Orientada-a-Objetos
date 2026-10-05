@@ -1,0 +1,7 @@
+com\mycompany\contenidomedia\ContenidoMedia.class
+com\mycompany\contenidomedia\modelo\ContenidoMedia.class
+com\mycompany\contenidomedia\modelo\PeliculaCinema.class
+com\mycompany\contenidomedia\modelo\PodcastEpisodio.class
+com\mycompany\contenidomedia\modelo\EventoEnVivo.class
+com\mycompany\contenidomedia\modelo\ServidorCDN.class
+com\mycompany\contenidomedia\modelo\DescargableOffline.class
